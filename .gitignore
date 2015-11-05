@@ -1,0 +1,14 @@
+.gradle
+.idea/
+IntoToAndroid.iml
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
